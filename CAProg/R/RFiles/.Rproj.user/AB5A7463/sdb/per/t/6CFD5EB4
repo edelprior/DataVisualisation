@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520343791349.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6CFD5EB4",
+    "lastKnownWriteTime" : 4408276736,
+    "last_content_update" : 1520343791349,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "s9yqs9pc65",
+        "caption" : "Policy1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Policy1&cache_key=s9yqs9pc65",
+        "displayedObservations" : 6,
+        "environment" : "",
+        "object" : "Policy1",
+        "totalObservations" : 6,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

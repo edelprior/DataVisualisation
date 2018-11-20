@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519733656728.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EAF90A98",
+    "lastKnownWriteTime" : 1808234853255102464,
+    "last_content_update" : 1519733656728,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "s9yqs9pc65",
+        "caption" : "Dacc1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Dacc1&cache_key=s9yqs9pc65",
+        "displayedObservations" : 840,
+        "environment" : "",
+        "object" : "Dacc1",
+        "totalObservations" : 840,
+        "variables" : 3
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

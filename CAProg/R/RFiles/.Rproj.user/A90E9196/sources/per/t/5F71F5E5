@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541689258365.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3066230885",
+    "id" : "5F71F5E5",
+    "lastKnownWriteTime" : 1542277573,
+    "last_content_update" : 1542277573630,
+    "path" : "N:/Year_4/Data Viz/CA1/Question2.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "8,85",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

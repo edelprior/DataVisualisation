@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "\\\\sideshowbob1/studenthome/N00153748/My Documents/R/win-library/3.5"
+    }
+}
